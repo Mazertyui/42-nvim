@@ -2,7 +2,7 @@ return {
 	-- OneDark, inspired by Atom. Default style is darker but you can...
 	'navarasu/onedark.nvim',
 	opts = {
-		style = 'deep',
+		style = 'warm',
 		-- ...switch themes using this keybind!
 		toggle_style_key = "<leader>st",
 		term_colors = true,
